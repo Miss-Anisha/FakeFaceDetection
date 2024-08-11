@@ -1,7 +1,7 @@
 ## Introduction
 Fake face detection is a mechanism which can identify faces as real or fake and give output as true for real and false for fake. We have used webcam for input images.
 ## Code Link
-<a href="http://localhost:8888/notebooks/FakefaceRecoganization/Fakefacefile1.ipynb">
+<a href="http://localhost:8888/notebooks/FakefaceRecoganization/Fakefacefile1.ipynb">Code</a>
 
 ## Features
 <ul>
